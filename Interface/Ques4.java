@@ -1,3 +1,5 @@
+/*Write a program to create an Interface having two methods division and modules. Create a class,
+which overrides these methods.*/
 interface Interface{
 	float division (float a, float b);
 	float modules(float a, float b);

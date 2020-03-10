@@ -1,3 +1,5 @@
+/*Write a program in Java to show the usefulness of Interfaces as a place to keep constant value of
+the program*/
 interface Area{
 	static final float pi=3.142f;
 	float compute(float x,float y);
