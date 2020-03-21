@@ -24,3 +24,15 @@ The Exception Handling in Java is one of the powerful mechanism to handle the ru
 
 The core advantage of exception handling is to maintain the normal flow of the application. An exception normally disrupts the normal flow of the application that is why we use exception handling.
 
+## Strings Handling
+In Java, string is basically an object that represents sequence of char values. An array of characters works same as Java string.
+Java String class provides a lot of methods to perform operations on strings such as compare(), concat(), equals(), split(), length(), replace(), compareTo(), intern(), substring() etc.
+There are two ways to create String object:
+        1. By string literal
+        2. By new keyword
+
+## Wraper Classes
+The wrapper class in Java provides the mechanism to convert primitive into object and object into primitive.
+
+
+
