@@ -1,4 +1,4 @@
-# Threads
+# Multithreading and Threads
 
 ## Ques1. 
 
